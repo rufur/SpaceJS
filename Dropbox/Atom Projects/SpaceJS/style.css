@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+
+#gameContainer{
+    border: 1px solid #282B31;
+    height: 600px;
+    width: 850px;
+    margin: auto;
+}
+
+#customButton{
+    margin: 2px;
+    color: white;
+    background-color: black;
+    font-family: "Impact";
+    border: 1px solid #282B31;
+}
+
+#customButton:hover{
+    color: white;
+    background-color: #282B31;
+}
+
+#tabHeader{
+    color: white;
+    text-align: center;
+    margin: 2px auto;
+    font-family: "Impact";
+    font-size: 12px;
+}
+
+#tabBody{
+    margin: 4px;
+    color: white;
+    font-family: "Impact";
+    font-size: 12px;
+}
+
+#locations{
+    border: 1px solid #282B31;
+    height: 594px;
+    width: 250px;
+    background-color: black;
+    margin: 2px;
+}
